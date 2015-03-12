@@ -1,3 +1,6 @@
+bzrtp-1.0.1 - Thursday, Match 12th 2015
+	* fix issues concerning the source tarball generation
+
 bzrtp-1.0.0 - Thursday, March 5th 2015
 	* first official release of bzrtp
 
